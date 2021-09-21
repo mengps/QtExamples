@@ -14,6 +14,8 @@
 
  - N-order-BezierCurve Qt 中实现任意N阶贝塞尔曲线绘制 & 动态调节
 
+ - 无事件循环或非 GUI / Qt 线程中使用 QTimer
+
 ------
 
 ### 许可证
