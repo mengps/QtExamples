@@ -1,4 +1,4 @@
-﻿# QtExamples
+# QtExamples
 
 提供一些有用Qt示例
 
@@ -14,7 +14,9 @@
 
  - N-order-BezierCurve Qt 中实现任意N阶贝塞尔曲线绘制 & 动态调节
 
- - 无事件循环或非 GUI / Qt 线程中使用 QTimer
+ - TimerTask 无事件循环或非 GUI / Qt 线程中使用 QTimer
+
+ - CaptureStdPrint Qt 中捕获三方库&自身标准打印方法
 
 ------
 
@@ -26,4 +28,4 @@
 
 ### 开发环境
 
-windows 10，Qt 5.13.0
+windows 10，Qt 5.15.2
