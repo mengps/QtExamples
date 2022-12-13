@@ -18,6 +18,8 @@
 
  - CaptureStdPrint Qt 中捕获三方库&自身标准打印方法
 
+ - InputMethodEventCatch Qt / Qml 中捕获(中文)输入法事件(按下 & 提交)
+
 ------
 
 ### 许可证

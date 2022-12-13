@@ -7,3 +7,7 @@
  - CaptureStdPrint Qt 中捕获三方库&自身标准打印方法
 
 <div align=center><img src="CaptureStdPrint.gif" width="600" height="480" /></div>
+
+ - InputMethodEventCatch Qt / Qml 中捕获(中文)输入法事件(按下 & 提交)
+
+<div align=center><img src="InputMethodEventCatch.gif" width="600" height="480" /></div>
