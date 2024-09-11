@@ -20,7 +20,7 @@
 
  - InputMethodEventCatch Qt / Qml 中捕获(中文)输入法事件(按下 & 提交)
 
- - SystemThemeDetection (Qt5 / Qt6) 系统主题检测(Dark / Light) & 主题变化通知
+ - SystemThemeDetection (Qt5 / Qt6) 系统主题检测(Dark / Light) & 主题变化感知
 
 ------
 
@@ -32,4 +32,4 @@
 
 ### 开发环境
 
-windows 10，Qt 5.15.2
+windows 11，Qt 5.15.2

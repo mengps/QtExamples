@@ -12,6 +12,6 @@
 
 <div align=center><img src="InputMethodEventCatch.gif" width="600" height="720" /></div>
 
- - SystemThemeDetection (Qt5 / Qt6) 系统主题检测(Dark / Light) & 主题变化通知
+ - SystemThemeDetection (Qt5 / Qt6) 系统主题检测(Dark / Light) & 主题变化感知
 
 <div align=center><img src="SystemThemeDetection.gif" width="840" height="480" /></div>
